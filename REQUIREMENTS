@@ -4,3 +4,4 @@ numpy
 pyserial
 tensorflow
 scikit-learn
+pandas
